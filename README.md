@@ -16,3 +16,6 @@ A full-stack bank application with a Spring Boot backend and React frontend.
 ### Frontend
 1. Navigate to the `frontend` folder.
 2. Run `npm start`.
+
+
+![image](https://github.com/user-attachments/assets/0950f8f1-9892-47d4-a16a-9538efde655c)
